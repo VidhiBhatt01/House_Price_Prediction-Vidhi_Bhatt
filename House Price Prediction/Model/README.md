@@ -35,22 +35,21 @@ The goal of this project is to make a prediction model which will predict the pr
 5. Seaborn
 
 **********************************
-## Exploratory Data Analysis
 1. **Pairplot**
 
-<img src="">
+<img src="https://github.com/VidhiBhatt01/winter-of-contributing/blob/7242e87d0e2701ab312c51ff6431bdfc6a6a9c6b/Machine_Learning/Basic_Projects_of_Machine_Learning/House%20Price%20Prediction/Images/1.png">
 
 2. **Distplot**
 
-<img src="">
+<img src="https://github.com/VidhiBhatt01/winter-of-contributing/blob/7242e87d0e2701ab312c51ff6431bdfc6a6a9c6b/Machine_Learning/Basic_Projects_of_Machine_Learning/House%20Price%20Prediction/Images/2.png">
 
 3. **Average price of houses depending on no. of bedrooms**
 
-<img src="">
+<img src="https://github.com/VidhiBhatt01/winter-of-contributing/blob/7242e87d0e2701ab312c51ff6431bdfc6a6a9c6b/Machine_Learning/Basic_Projects_of_Machine_Learning/House%20Price%20Prediction/Images/3.png">
 
 4. **Pearon Correaltion matrix**
 
-<img src="">
+<img src="https://github.com/VidhiBhatt01/winter-of-contributing/blob/7242e87d0e2701ab312c51ff6431bdfc6a6a9c6b/Machine_Learning/Basic_Projects_of_Machine_Learning/House%20Price%20Prediction/Images/4.png">
 
 ***************************************
 ## Conclusion
